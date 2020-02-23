@@ -1,0 +1,24 @@
+{
+  "name": "unit-tests",
+  "version": "1.0.0",
+  "description": "jest intro",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "javascript, jest, unit testing"
+  },
+  "keywords": [
+    "javascript",
+    "jest",
+    "unit",
+    "testing"
+  ],
+  "author": "Vitalii Kalinbet",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^25.1.0"
+  }
+}
